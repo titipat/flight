@@ -1,3 +1,13 @@
+# Flight PHP Framework
+
+## Materials
+
+* [Flight PHP](http://flightphp.com)
+* [PHP PDO Tutorial](https://code.tutsplus.com/tutorials/why-you-should-be-using-phps-pdo-for-database-access--net-12059)
+* [HR Schema](https://github.com/nomemory/hr-schema-mysql)
+
+---
+
 # What is Flight?
 
 Flight is a fast, simple, extensible framework for PHP. Flight enables you to 
