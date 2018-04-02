@@ -6,6 +6,10 @@
 * [PHP PDO Tutorial](https://code.tutsplus.com/tutorials/why-you-should-be-using-phps-pdo-for-database-access--net-12059)
 * [HR Schema](https://github.com/nomemory/hr-schema-mysql)
 
+## Further Reading
+
+* [What is an ORM and where can I learn more about it?](https://stackoverflow.com/questions/1279613/what-is-an-orm-and-where-can-i-learn-more-about-it?noredirect=1&lq=1)
+
 ---
 
 # What is Flight?
